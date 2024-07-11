@@ -1,16 +1,59 @@
-# shopping_ui
+# Flutter Shopping UI
 
-A new Flutter project.
+A Flutter application showcasing a shopping UI with various features and components.
+
+## Features
+
+- **Homepage:** Displays animated banners, top products, and user lists.
+- **Product Cards:** Detailed view of top products with ratings and reviews.
+- **User Lists:** Lists top users with avatars and ranking icons.
+- **Footer:** Includes company information and navigation links.
+
+## Screenshots
+
+![Homepage](screenshots/homepage.jpg)
+![Footer](screenshots/footer.jpg)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK
+- Android/iOS emulator or device
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installing
+
+Clone the repository:
+
+```bash
+git clone https://github.com/ETdvlpr/shopping_ui.git
+cd shopping_ui/
+```
+
+Install dependencies:
+
+```bash
+flutter pub get
+```
+
+### Running
+
+Run the app on an emulator or device:
+
+```bash
+flutter run
+```
+
+## Built With
+
+- Flutter - UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+
+## Authors
+
+- [David Samuel](https://github.com/ETdvlpr) - Developer
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
