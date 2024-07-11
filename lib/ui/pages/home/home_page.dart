@@ -87,19 +87,19 @@ class HomeContent extends StatelessWidget {
     return ListView(
       padding: const EdgeInsets.symmetric(vertical: 16),
       children: [
-        CustomSearchBar(),
-        SizedBox(height: 16),
-        AnimatedBanner(),
-        SizedBox(height: 16),
-        TopThreeProducts(),
+        const CustomSearchBar(),
+        const SizedBox(height: 16),
+        const AnimatedBanner(),
+        const SizedBox(height: 16),
+        const TopThreeProducts(),
         Container(
           width: double.infinity,
           height: 16,
           color: AppTheme.whiteColorEE,
         ),
-        UserList(),
-        SizedBox(height: 16),
-        Footer(),
+        const UserList(),
+        const SizedBox(height: 16),
+        const Footer(),
       ],
     );
   }

@@ -8,5 +8,6 @@ class AppTheme {
   static const Color whiteColorC4 = Color(0xFFC4C4C4);
   static const Color whiteColorEE = Color(0xFFEEEEEE);
   static const Color greyColor = Color(0xFF767D88);
+  static const Color greColor86 = Color(0xFF868686);
   static const Color greyTextColor = Color(0xFF616161);
 }

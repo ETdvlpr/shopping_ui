@@ -13,6 +13,7 @@ A Flutter application showcasing a shopping UI with various features and compone
 
 ![Homepage](screenshots/homepage.jpg)
 ![Footer](screenshots/footer.jpg)
+![Profile](screenshots/profile.jpg)
 
 ## Getting Started
 
